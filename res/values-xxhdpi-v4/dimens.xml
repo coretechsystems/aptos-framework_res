@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tw_list_divider_height">2.0px</dimen>
+    <dimen name="multiwindow_focusline_thickness">2.0dip</dimen>
+    <dimen name="multiwindow_frame_out_shadow_size">1.0dip</dimen>
+</resources>

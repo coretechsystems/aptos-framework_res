@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="multiwindow_focusline_thickness">4.0dip</dimen>
+</resources>
